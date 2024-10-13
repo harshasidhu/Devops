@@ -1,0 +1,6 @@
+import java
+public class tuff{
+	public static void main(String[]args){
+	System.out.println("this is java demo file to push into git repo");
+}
+}
